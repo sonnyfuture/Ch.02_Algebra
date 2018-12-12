@@ -4,12 +4,12 @@ but I will definitely not ask another person except the instructor. Signed: Eddi
 
 1.) How do you enter a single line comment in a program?
 
-
+#Use a pound like this (except this is all a comment anyways so it doesn't really do anything).
 
 
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
 2 / 3
-2 // 3
+2 // 3 Floor
 3/2
 3//2
 
@@ -33,7 +33,7 @@ A
 Area
 AREA
 area
-area_of_rectangle
+area_of_rectangle - This one because it does not contain any capital letters and is specific.
 Area_Of_Rectangle
 
 
@@ -47,12 +47,12 @@ apple
 Apple
 APPLE
 Apple2
-1Apple
-account number
+1Apple - This one
+account number - This one
 account_number
-account.number
+account.number - This one
 accountNumber
-account#
+account# - This one
 pi
 PI
 fred
@@ -60,11 +60,11 @@ Fred
 GreatBigVariable
 greatBigVariable
 great_big_variable
-great.big.variable
-2x
+great.big.variable - This one
+2x - This one
 x2x
-total%
-#left
+total% - This one
+#left - This one
 
 
 
