@@ -72,13 +72,13 @@ total% - This one
 
 
 6.) Predict the output of (a) and its type and then test it?
-a =2
-a*=10
-a/=2
-a+=12
-a-=7
-a
-type(a)
+a =2 - Output 2 (I was correct)
+a*=10 - Multiplies the variable by what you set it to (I think I was correct)
+a/=2 - Divides the variable by what you set it to (I think I was correct)
+a+=12 - Adds to the variable what you set it to (Okay by now I'm sure I'm correct on these)
+a-=7 - Subtracts from the variable what you set it to (Absolutely correct)
+a - 15
+type(a) - The console says <class 'float'>
 
 
 
