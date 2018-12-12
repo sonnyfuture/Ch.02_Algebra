@@ -126,7 +126,7 @@ x,y,z =(3,4,5)
 ave = x+y+z/3
 ave
 
-
+Because it is doing of order of operations.  So instead of finding the average, its dividing 'z' by 3 and adding 7.
 
 
 
