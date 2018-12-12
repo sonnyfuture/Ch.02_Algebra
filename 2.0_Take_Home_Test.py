@@ -8,10 +8,10 @@ but I will definitely not ask another person except the instructor. Signed: Eddi
 
 
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
-2 / 3
-2 // 3 Floor
-3/2
-3//2
+2 / 3 .6 Repeating, just a normal division problem.
+2 // 3 0, this is a 'floor' and will come up with the remainder.
+3/2 1.5, regular division.
+3//2 1, remainder.
 
 
 
@@ -22,8 +22,8 @@ A = 22
 b = 13
 c = a+b
 
-
-
+It won't work because we set CAPITAL A to 22 and not LOWERCASE a to 22, so it either won't know what to add or
+if you have 'a' set to something you will most likely get the wrong answer.
 
 
 
@@ -93,7 +93,7 @@ pi = x
 area = pi  * radius ** 2
 area
 
-
+Instead of setting x to 3.14 and creating unnecessary variables, you could just set pi to 3.14.
 
 
 
