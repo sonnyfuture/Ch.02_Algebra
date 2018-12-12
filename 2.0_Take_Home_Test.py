@@ -6,7 +6,7 @@ but I will definitely not ask another person except the instructor. Signed: Eddi
 
 #Use a pound like this (except this is all a comment anyways so it doesn't really do anything).
 
-
+INCORRECT: You are getting floor (//) mixed up with modulus (%). Try it out.
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
 2 / 3 .6 Repeating, just a normal division problem.
 2 // 3 0, this is a 'floor' and will come up with the remainder.
@@ -109,7 +109,7 @@ type(True) <class 'bool'>
 
 
 
-
+yes, that would work but 3*(x+y) would also work.
 9.) Fix the mistake in the following code:
 x = 4
 y = 5
@@ -120,7 +120,7 @@ a = 3*x+3*y is the correct way to write this.
 
 
 
-
+SO...correct the code.
 10.)Why does this code not calculate the average?
 x,y,z =(3,4,5)
 ave = x+y+z/3
