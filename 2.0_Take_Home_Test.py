@@ -99,10 +99,10 @@ area
 
 
 8.) What is the ouput of each of these?
-type(42)
-type(42.0)
-type("C3PO")
-type(True)
+type(42) <class 'int'>
+type(42.0) <class 'float'>
+type("C3PO") <class 'str'>
+type(True) <class 'bool'>
 
 
 
@@ -114,7 +114,7 @@ type(True)
 x = 4
 y = 5
 a = 3(x + y)
-a
+a = 3*x+3*y is the correct way to write this.
 
 
 
