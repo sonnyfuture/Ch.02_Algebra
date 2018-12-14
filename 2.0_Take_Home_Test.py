@@ -9,9 +9,9 @@ but I will definitely not ask another person except the instructor. Signed: Eddi
 INCORRECT: You are getting floor (//) mixed up with modulus (%). Try it out.
 2.) What do the following lines of code output? ALSO: Why do they give a different answer?
 2 / 3 .6 Repeating, just a normal division problem.
-2 // 3 0, this is a 'floor' and will come up with the remainder.
+2 // 3 0, this is a 'floor' and will come up with the remainder.  CORRECTION:  It cuts off everything after the decimal.
 3/2 1.5, regular division.
-3//2 1, remainder.
+3//2 1, remainder.  CORRECTION:  It cuts off everything after the decimal.
 
 
 
@@ -114,8 +114,8 @@ yes, that would work but 3*(x+y) would also work.
 x = 4
 y = 5
 a = 3(x + y)
-a = 3*x+3*y is the correct way to write this.
-
+a = 3*x+3*y is the correct way to write this.  CORRECTION: 3*(x+9) would be more efficient than 3*x+3*y, though they
+retrieve the same result.
 
 
 
@@ -127,7 +127,7 @@ ave = x+y+z/3
 ave
 
 Because it is doing of order of operations.  So instead of finding the average, its dividing 'z' by 3 and adding 7.
-
+CORRECTION: (x+y+z)/3
 
 
 '''
